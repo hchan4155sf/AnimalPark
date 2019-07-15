@@ -5,4 +5,9 @@ public class Dog {
 	{
 		
 	}
+	
+	public void Bark()
+	{
+		
+	}
 }
